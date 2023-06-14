@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="vv8cAe" name="PFMProject00" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginManufacturerCode="Davi">
   <MAINGROUP id="BsbPy7" name="PFMProject00">
     <GROUP id="{35EFD51B-E9D0-8AB3-063E-2D9D9E29B57C}" name="Source">
       <FILE id="QLra6w" name="PluginProcessor.cpp" compile="1" resource="0"
